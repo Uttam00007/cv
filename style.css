@@ -1,0 +1,16 @@
+body{
+  background-color: lavender;
+}
+hr{border-style: none;
+  border-top-style:dotted;
+border-color: grey;
+border-width: 5px;
+
+width: 5%}
+img{height: 240px;
+width: 240px;}
+h1{
+  color:#310b0b
+}
+h3{color: #310b0b}
+th{color: #310b0b}
